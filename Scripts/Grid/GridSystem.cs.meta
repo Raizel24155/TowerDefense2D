@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cb9725943e6e5524c92a285e9c50a87e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mouseIndicator: {instanceID: 0}
+  - cellIndicator: {instanceID: 0}
+  - inputManager: {instanceID: 0}
+  - currentTower: {instanceID: 0}
+  - grid: {instanceID: 0}
+  - grass: {instanceID: 0}
+  - grassTile: {instanceID: 0}
+  - currentStats: {fileID: 11400000, guid: b8575e8f36db66c4bbb942b1761eda2f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

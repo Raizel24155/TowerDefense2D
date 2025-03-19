@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6f4fdf45df919540ab0cabf30805056, type: 3}
+  m_Name: BuldingTest
+  m_EditorClassIdentifier: 
+  towerName: base
+  prefab: {fileID: 750980859480770522, guid: 8c8aea812569d9f4bb6be7ba6ef00663, type: 3}
+  sprite: {fileID: -144465725452852278, guid: 625ffab6776ac824ea1cdc61bd736415, type: 3}
+  healtAmount: 100
+  attackRange: 0
+  damageAmount: 0
+  attackSpeed: 0
+  description: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 36ac2a569e057d84eb6ac535f10253bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - baseStats: {instanceID: 0}
+  - currentStats: {fileID: 11400000, guid: b8575e8f36db66c4bbb942b1761eda2f, type: 2}
+  - timerText: {instanceID: 0}
+  - goldText: {instanceID: 0}
+  - speedButton: {instanceID: 0}
+  - healthSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

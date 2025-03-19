@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fad0902e4a3e0548b5ca831ccb0a9e9, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  mobName: intermediate
+  prefab: {fileID: 3649742363624409113, guid: ef9e03f61fa61a545b1b69627ffc1e3b, type: 3}
+  baseHealth: 100
+  baseDamage: 35
+  baseAttackSpeed: 4
+  baseMovementSpeed: 1
+  expDrop: 100
+  chanceToSpawn: 44.2
+  description: slow and big dmg
+  baseHealthFluctuations: 0
+  baseDamageFluctuations: 0
+  baseAttackSpeedFluctuations: 0
+  baseMovementSpeedFluctuations: 0

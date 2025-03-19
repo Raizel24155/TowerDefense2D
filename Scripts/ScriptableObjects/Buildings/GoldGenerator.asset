@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6f4fdf45df919540ab0cabf30805056, type: 3}
+  m_Name: GoldGenerator
+  m_EditorClassIdentifier: 
+  towerName: GOLD
+  prefab: {fileID: 4409710229990739071, guid: a50859fd3ff536f46a1918d598c31dad, type: 3}
+  sprite: {fileID: 288716522442982984, guid: a5d2a7d954d56804885050265f49196e, type: 3}
+  health: 0
+  lvl: 0
+  damage: 0
+  bulletsAmount: 0
+  attackRange: 0
+  attackSpeed: 8
+  cost: 15
+  description: daje golda
+  towerUpgradeList: []
+  buildingType: 2
